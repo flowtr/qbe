@@ -1,0 +1,5 @@
+*.o
+*.out
+*.a
+zig-cache
+zig-out
